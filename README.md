@@ -26,8 +26,7 @@ An introduction to advanced Deep Reinforcement Learning (DRL) algorithms. DRL is
 
 # Risultati:
 <video width="640" height="360" controls>
-  <source src="./percorso/del/tuo/video.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
+  <source src="https://raw.githubusercontent.com/Elia29/LAB_Deep_Learning_Application/main/test_a2c_lunarlander_best-episode-0.mp4" type="video/mp4">
 </video>
 ---
 ## License
