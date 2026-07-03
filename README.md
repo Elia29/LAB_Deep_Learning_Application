@@ -1,6 +1,6 @@
 # LAB Deep Learning Application
 
-This repository contains the practical assignments and code implementations developed during the laboratory sessions focused on Deep Learning and Reinforcement Learning.
+This repository contains some practical assignments and code implementations focused on Deep Learning and Reinforcement Learning.
 
 ## Table of Contents
 - [Lab 1: Transfer Learning & Baseline Models](DLA-Lab1.ipynb)
