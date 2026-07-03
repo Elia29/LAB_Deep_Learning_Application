@@ -10,7 +10,7 @@ This repository contains the practical assignments and code implementations deve
 ---
 
 ## Lab 1: Transfer Learning & Baseline Models <a name="lab-1"></a>
-In this first laboratory, we explore techniques to exploit and adapt pre-trained models to solve new tasks.
+In this [first laboratory](DLA-Lab1.ipynb), we explore techniques to exploit and adapt pre-trained models to solve new tasks.
 * **Key Topics:** Dataset instantiation, fine-tuning pre-trained CNNs.
 * **Objective:** Establish a stable and reproducible baseline model.
 
