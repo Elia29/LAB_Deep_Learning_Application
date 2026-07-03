@@ -26,5 +26,5 @@ An introduction to advanced Deep Reinforcement Learning (DRL) algorithms. DRL is
 
 ---
 ## Licence
-This project is distributed under the MIT license.
+This project is distributed under the [MIT](LICENSE).
 
