@@ -3,9 +3,9 @@
 This repository contains the practical assignments and code implementations developed during the laboratory sessions focused on Deep Learning and Reinforcement Learning.
 
 ## Table of Contents
-- [Lab 1: Transfer Learning & Baseline Models](#lab-1)
-- [Lab 2: Transformer Models with Hugging Face](#lab-2)
-- [Lab 3: Deep Reinforcement Learning](#lab-3)
+- [Lab 1: Transfer Learning & Baseline Models](DLA-Lab1.ipynb)
+- [Lab 2: Transformer Models with Hugging Face](DLA-Lab2.ipynb)
+- [Lab 3: Deep Reinforcement Learning](DLA-Lab3.ipynb)
 
 ---
 
@@ -23,12 +23,9 @@ This session focuses on gaining hands-on experience with Transformer architectur
 An introduction to advanced Deep Reinforcement Learning (DRL) algorithms. DRL is notoriously challenging, and this lab emphasizes the subtlety required to analyze training stability.
 * **Key Topics:** Policy Gradient methods, training stability analysis.
 * **Core Task:** Refactoring and implementing the `REINFORCE` algorithm on the [Cartpole environment](https://gymnasium.farama.org/environments/classic_control/cart_pole/).
-
-## Risultati
-Puoi vedere la registrazione del modello in azione cliccando sul link sottostante:
-
-[▶️ Clicca qui per guardare il video del modello](https://github.com/Elia29/LAB_Deep_Learning_Application/blob/main/test_a2c_lunarlander_best-episode-0.mp4?raw=true)
+  
 ---
+
 ## License
 This project is distributed under the [MIT](LICENSE) license.
 
