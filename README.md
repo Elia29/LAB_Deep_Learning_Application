@@ -24,10 +24,10 @@ An introduction to advanced Deep Reinforcement Learning (DRL) algorithms. DRL is
 * **Key Topics:** Policy Gradient methods, training stability analysis.
 * **Core Task:** Refactoring and implementing the `REINFORCE` algorithm on the [Cartpole environment](https://gymnasium.farama.org/environments/classic_control/cart_pole/).
 
-Risultati:
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/Elia29/LAB_Deep_Learning_Application/main/test_a2c_lunarlander_best-episode-0.mp4" type="video/mp4">
-</video>
+# Risultati
+Clicca sull'immagine qui sotto per vedere il video del modello in azione:
+
+[![Guarda il video del modello](https://img.shields.io/badge/Video-Play_Demo-red?style=for-the-badge&logo=youtube)](https://raw.githubusercontent.com/Elia29/LAB_Deep_Learning_Application/main/test_a2c_lunarlander_best-episode-0.mp4)
 ---
 ## License
 This project is distributed under the [MIT](LICENSE) license.
