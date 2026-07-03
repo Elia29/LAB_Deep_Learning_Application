@@ -17,7 +17,7 @@ In this first laboratory, we explore techniques to exploit and adapt pre-trained
 ## Lab 2: Transformers with Hugging Face <a name="lab-2"></a>
 This session focuses on gaining hands-on experience with Transformer architectures.
 * **Key Topics:** Leveraging the [Hugging Face Ecosystem](https://huggingface.co/).
-* **Objective:** Implementing and adapting Transformer models for various NLP/computer vision tasks.
+* **Objective:** Implementing and adapting Transformer models for various computer vision tasks.
 
 ## Lab 3: Deep Reinforcement Learning <a name="lab-3"></a>
 An introduction to advanced Deep Reinforcement Learning (DRL) algorithms. DRL is notoriously challenging, and this lab emphasizes the subtlety required to analyze training stability.
