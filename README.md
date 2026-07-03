@@ -6,7 +6,6 @@ This repository contains the practical assignments and code implementations deve
 - [Lab 1: Transfer Learning & Baseline Models](#lab-1)
 - [Lab 2: Transformer Models with Hugging Face](#lab-2)
 - [Lab 3: Deep Reinforcement Learning](#lab-3)
-- [Requirements](#requirements)
 
 ---
 
